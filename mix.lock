@@ -1,0 +1,11 @@
+%{
+  "io_ansi_plus": {:hex, :io_ansi_plus, "0.1.22", "7576f7658531a6a92dfcb741d02598af8a406d754abd30ddc1b7370ebf4fa7a6", [:mix], [{:persist_config, "~> 0.1", [hex: :persist_config, repo: "hexpm", optional: false]}], "hexpm"},
+  "io_ansi_table": {:hex, :io_ansi_table, "0.4.30", "43d0f8d3ab2ae6efe593e9b2ee6c73cf298c059493396f4e8c6502408123a3c3", [:mix], [{:io_ansi_plus, "~> 0.1", [hex: :io_ansi_plus, repo: "hexpm", optional: false]}, {:map_sorter, "~> 0.2", [hex: :map_sorter, repo: "hexpm", optional: false]}, {:persist_config, "~> 0.1", [hex: :persist_config, repo: "hexpm", optional: false]}], "hexpm"},
+  "map_sorter": {:hex, :map_sorter, "0.2.30", "5e1dbee707331355c64ee7681caa826360221136dba9bf4cff95c4a994d4a209", [:mix], [{:persist_config, "~> 0.2", [hex: :persist_config, repo: "hexpm", optional: false]}], "hexpm"},
+  "optimus": {:hex, :optimus, "0.1.9", "a3911b44722cdf37e9fd67142f8eecab474e81c05424b43ba8dcf319b37f252a", [:mix], [{:yamerl, "~> 0.6", [hex: :yamerl, repo: "hexpm", optional: false]}], "hexpm"},
+  "persist_config": {:hex, :persist_config, "0.2.14", "5c8ada945c4115a84d530699c1716981e391e611556e5b9711bf19c0bebfe090", [:mix], [], "hexpm"},
+  "poolboy": {:hex, :poolboy, "1.5.2", "392b007a1693a64540cead79830443abf5762f5d30cf50bc95cb2c1aaafa006b", [:rebar3], [], "hexpm"},
+  "sbroker": {:hex, :sbroker, "1.0.0", "28ff1b5e58887c5098539f236307b36fe1d3edaa2acff9d6a3d17c2dcafebbd0", [:rebar3], [], "hexpm"},
+  "statistics": {:hex, :statistics, "0.6.2", "213dcedc2b3ae7fb775b5510ea9630c66d3c0019ea2f86d5096559853623a60d", [:mix], [], "hexpm"},
+  "yamerl": {:hex, :yamerl, "0.7.0", "e51dba652dce74c20a88294130b48051ebbbb0be7d76f22de064f0f3ccf0aaf5", [:rebar3], [], "hexpm"},
+}
